@@ -1,4 +1,10 @@
-### Hi there 👋
+I'm Adam, a software engineer based in Bristol, UK.
+
+I'm currently working on open source software including the [VWS-Python suite of tools](https://github.com/VWS-Python/).
+
+I help people to pass interviews and negotiate salaries at [adamdangoor.com](adamdangoor.com).
+
+Reach me at [adamdangoor@gmail.com](mailto:adamdangoor@gmail.com).
 
 <!--
 **adamtheturtle/adamtheturtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

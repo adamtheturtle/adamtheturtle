@@ -2,7 +2,7 @@ I'm Adam, a software engineer based in Bristol, UK.
 
 I'm currently working on open source software including the [VWS-Python suite of tools](https://github.com/VWS-Python/).
 
-I help people to pass interviews and negotiate salaries at [adamdangoor.com](adamdangoor.com).
+I help people to pass interviews and negotiate salaries at [adamdangoor.com](https://adamdangoor.com).
 
 Reach me at [adamdangoor@gmail.com](mailto:adamdangoor@gmail.com).
 
